@@ -7,7 +7,6 @@ import lombok.Setter;
 @Getter
 @Setter
 @AllArgsConstructor
-//@XmlAccessorType(XmlAccessType.FIELD)
 public class CsvDto {
 	
 	private String id;	
